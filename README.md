@@ -377,6 +377,8 @@ http://mt.sohu.com/20160129/n436284127.shtml
 //珠峰培训资料
 https://coding.net/u/zhufengpeixun/p/201610node/git/tree/master
 
+//珠峰培训课件
+https://zhufengnodejs.github.io/doc/html/react/react%E5%85%A5%E9%97%A8.html#t65.
 //Semantic UI前端框架
 http://semantic-ui.com/elements/button.html
 
