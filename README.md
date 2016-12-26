@@ -4,13 +4,13 @@ hosts文件的位置：C:\Windows\System32\drivers\etc
 映射  192.168.1.126
 
 
-*****  http://www.hcharts.cn/demo/index.php?p=31       //highcharts中文网（各种图：折线、柱状）js
+http://www.hcharts.cn/demo/index.php?p=31       //highcharts中文网（各种图：折线、柱状）js
 
-*****  http://echarts.baidu.com/doc/doc.html#Option     //ECharts可视化  （各种可视化图）http://echarts.baidu.com/echarts2/doc/example.html
+http://echarts.baidu.com/doc/doc.html#Option     //ECharts可视化  （各种可视化图）http://echarts.baidu.com/echarts2/doc/example.html
  
-*****  http://developer.baidu.com/map/jsdemo.htm#a3_3  //百度地图api
+	http://developer.baidu.com/map/jsdemo.htm#a3_3  //百度地图api
 
-*****  http://www.jb51.net/article/32482.htm           //php-excel-reader php导入excel表格
+ http://www.jb51.net/article/32482.htm           //php-excel-reader php导入excel表格
 
 http://cfnet.org.cn/index.php?app=bizs&mod=Jituan&act=weibo //长风网内训平台
 
@@ -267,6 +267,9 @@ http://bbs.php-z.com/forum-161-1.html
 //php解决APP发送图片问题
 http://blog.phpfs.com/archives/1135.html
 
+//MySQL数据库的优化方案
+https://segmentfault.com/a/1190000006158186?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
 《-----苹果id账号----》
 https://item.taobao.com/item.htm?id=40015319090&spm=2014.21600712.0.0&qq-pf-to=pcqq.c2c
 
@@ -327,12 +330,6 @@ http://blog.sina.com.cn/s/blog_498e520b0100dj4h.html
 //thinkphp去掉开头的index.php方法
 http://www.5idev.com/p-thinkphp_htaccess_rewrite.shtml
 
-
-<!---伊人网站--->
-www.yiren1314.cn
-ftp:101.200.202.13
-user:yiren
-pass:123456qwe
 
 <!----女装----->
 http://re.jd.com/list/item/1356-1243345227.html?re_dcp=44J8z2g7VokuhP0PCsWACEKePJ3aW-mZhwVEGOgmS5VzCzsT9f-rNnQZj7TOQUuYlBdjff_xq2OQoH1FnQc=&jd_pop=e69a11ad-ad6e-41ba-937f-b55bbc023f03&abt=0&utm_source=x.jd.com&utm_medium=unioncpc&utm_campaign=t_52006_207944_1156&utm_term=e69a11adad6e41ba937fb55bbc023f03-p_1156
