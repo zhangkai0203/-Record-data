@@ -382,4 +382,6 @@ http://semantic-ui.com/elements/button.html
 //多屏互动
 https://segmentfault.com/a/1190000005988744
 
+//Jquery.barrager.js 是一款优雅的网页弹幕插件,支持显示图片,文字以及超链接
+
 
