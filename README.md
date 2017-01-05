@@ -330,6 +330,8 @@ http://blog.sina.com.cn/s/blog_498e520b0100dj4h.html
 //thinkphp去掉开头的index.php方法
 http://www.5idev.com/p-thinkphp_htaccess_rewrite.shtml
 
+//PHP数据的加密
+https://gold.xitu.io/post/584e3d1c0ce463005c625aff
 
 <!----女装----->
 http://re.jd.com/list/item/1356-1243345227.html?re_dcp=44J8z2g7VokuhP0PCsWACEKePJ3aW-mZhwVEGOgmS5VzCzsT9f-rNnQZj7TOQUuYlBdjff_xq2OQoH1FnQc=&jd_pop=e69a11ad-ad6e-41ba-937f-b55bbc023f03&abt=0&utm_source=x.jd.com&utm_medium=unioncpc&utm_campaign=t_52006_207944_1156&utm_term=e69a11adad6e41ba937fb55bbc023f03-p_1156
