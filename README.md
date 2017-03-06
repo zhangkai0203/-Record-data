@@ -372,6 +372,8 @@ multer
 
 //Navicat for MySQL 11注册码
 http://mt.sohu.com/20160129/n436284127.shtml
+//phpstorm 注册码
+http://www.cnblogs.com/Worssmagee1002/p/6233698.htmlss
 
 //珠峰培训资料
 https://coding.net/u/zhufengpeixun/p/201610node/git/tree/master
