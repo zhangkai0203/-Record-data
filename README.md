@@ -388,3 +388,6 @@ https://segmentfault.com/a/1190000005988744
 
 //Jquery.barrager.js 是一款优雅的网页弹幕插件,支持显示图片,文字以及超链接
 //js和css压缩网站  http://ganquan.info/yui/?hl=zh-CN
+
+//redis中文文档
+http://www.cnblogs.com/weafer/archive/2011/09/21/2184059.html
