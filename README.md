@@ -3,9 +3,13 @@
 * C:\Windows\System32\drivers\etc 
 * 映射  192.168.1.126
 
+## js相关资料
+---------------
+
+
 #### highcharts中文网（各种图：折线、柱状）js
 
-> http://www.hcharts.cn/demo/index.php?p=31    
+* http://www.hcharts.cn/demo/index.php?p=31    
 
 http://echarts.baidu.com/doc/doc.html#Option     //ECharts可视化  （各种可视化图）http://echarts.baidu.com/echarts2/doc/example.html
  
