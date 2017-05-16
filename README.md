@@ -5,12 +5,12 @@
 
 # js相关资料
 
-#### jQuery插件库
-    http://www.jq22.com/
-#### 前端学习比较全面的学习资料
-    http://www.cnblogs.com/jadeboy/p/5406592.html
-#### html5 动态效果实例
-    http://techbrood.com/
+1.[jQuery插件库](http://www.jq22.com/)
+    
+2.[前端学习比较全面的学习资料](http://www.cnblogs.com/jadeboy/p/5406592.html)
+
+3[html5 动态效果实例](http://techbrood.com/)
+    
 #### html5 3d 全屏效果
     http://www.plus360degrees.com/
 #### 30+有吸引力的jQuery插件 可应用到你的WEB站点
