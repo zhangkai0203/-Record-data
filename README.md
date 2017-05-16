@@ -3,7 +3,7 @@
     C:\Windows\System32\drivers\etc 
     映射  192.168.1.126
 
-## js相关资料
+# js相关资料
 
 #### jQuery插件库
     http://www.jq22.com/
