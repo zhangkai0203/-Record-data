@@ -8,7 +8,7 @@
     
 [前端学习比较全面的学习资料](http://www.cnblogs.com/jadeboy/p/5406592.html)
 
-[html5新特性](http://www.cnblogs.com/best/p/6083701.html#_lab2_0_0)
+[html5新特性](http://www.cnblogs.com/best/p/6083701.html#_lab2_0_0)[github](https://github.com/zhangguo5/HTML5_3_1)
 
 [html5 动态效果实例](http://techbrood.com/)
     
