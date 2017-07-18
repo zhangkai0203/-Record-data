@@ -8,6 +8,8 @@
     
 [前端学习比较全面的学习资料](http://www.cnblogs.com/jadeboy/p/5406592.html)
 
+[html5新特性](http://www.cnblogs.com/best/p/6083701.html#_lab2_0_0)
+
 [html5 动态效果实例](http://techbrood.com/)
     
 [html5 3d 全屏效果](http://www.plus360degrees.com/)
