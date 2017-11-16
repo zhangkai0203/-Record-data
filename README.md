@@ -207,6 +207,7 @@
 > zhangkai0203   zhangkai0203    
     
 [后端技术类网站 PHP](http://bbs.php-z.com/forum-39-2.html)
+[LNMP源码编译过程 CentOS-7.3+Nginx-1.11+MySQL-5.7+php-7.1](https://my.oschina.net/u/3054299/blog/869225)
     
     
 # java 
