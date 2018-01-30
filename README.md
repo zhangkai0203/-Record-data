@@ -168,6 +168,8 @@
 
 [产品经理设计](http://www.woshipm.com/rp/64741.html)
 
+[H-ui 后台管理模板](http://demo.h-ui.net/H-ui.admin.page/index.html)
+
 
 
     
@@ -208,6 +210,8 @@
     
 [后端技术类网站 PHP](http://bbs.php-z.com/forum-39-2.html)
 [LNMP源码编译过程 CentOS-7.3+Nginx-1.11+MySQL-5.7+php-7.1](https://my.oschina.net/u/3054299/blog/869225)
+
+[meepoPS php soket 轻量级框架](http://meepops.lanecn.com/)
     
     
 # java 
