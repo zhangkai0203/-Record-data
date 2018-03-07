@@ -72,6 +72,9 @@
 [Swiper常用于移动端网站的内容触摸滑动](http://www.swiper.com.cn/)
     
 [KindEditor文本插件](http://kindeditor.net/demo.php)
+
+# Vue
+[vue-resource插件使用](https://www.cnblogs.com/axl234/p/5899137.html)
     
     
     
