@@ -302,6 +302,7 @@
 
 
 # 编辑工具
+[phpstrom低版本下载地址](http://confluence.jetbrains.com/display/PhpStorm/Previous+PhpStorm+Releases)
 [phpstorm 注册码](http://www.cnblogs.com/Worssmagee1002/p/6233698.htmlss)
 > loadrunner  测试软件
 # redis
@@ -312,6 +313,8 @@
 [好用的Markdown编辑器一览](http://www.williamlong.info/archives/4319.html)
 
 [在线编辑器](https://www.zybuluo.com/mdeditor)
+
+[win10下载地址](https://msdn.itellyou.cn/)
 
 [女装]( http://re.jd.com/list/item/1356-1243345227.html?re_dcp=44J8z2g7VokuhP0PCsWACEKePJ3aW-mZhwVEGOgmS5VzCzsT9f-rNnQZj7TOQUuYlBdjff_xq2OQoH1FnQc=&jd_pop=e69a11ad-ad6e-41ba-937f-b55bbc023f03&abt=0&utm_source=x.jd.com&utm_medium=unioncpc&utm_campaign=t_52006_207944_1156&utm_term=e69a11adad6e41ba937fb55bbc023f03-p_1156)
    
