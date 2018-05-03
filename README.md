@@ -305,6 +305,7 @@
 [phpstrom低版本下载地址](http://confluence.jetbrains.com/display/PhpStorm/Previous+PhpStorm+Releases)
 [phpstorm 注册码](http://www.cnblogs.com/Worssmagee1002/p/6233698.htmlss)
 > loadrunner  测试软件
+>phpstrom 安装GO语言编辑扩展 plugins->Gogland
 # redis
 
 [redis中文文档](http://www.cnblogs.com/weafer/archive/2011/09/21/2184059.html)
