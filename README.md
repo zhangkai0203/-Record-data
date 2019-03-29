@@ -219,6 +219,8 @@
 [LNMP源码编译过程 CentOS-7.3+Nginx-1.11+MySQL-5.7+php-7.1](https://my.oschina.net/u/3054299/blog/869225)
 
 [meepoPS php soket 轻量级框架](http://meepops.lanecn.com/)
+
+[php进阶之路]（https://segmentfault.com/a/1190000010455076?utm_source=tool.lu）
     
     
 # java 
