@@ -3,6 +3,7 @@
 > C:\Windows\System32\drivers\etc  映射  192.168.1.126
 
 # js相关资料
+[es6手册](http://es6.ruanyifeng.com/#docs/let)
 
 [jQuery插件库](http://www.jq22.com/)
     
@@ -255,14 +256,45 @@
 [nodejs 多屏互动](https://segmentfault.com/a/1190000005988744)   
 
 
+#go
+[go-mysql](https://segmentfault.com/a/1190000003036452)
+[go-mysql](https://www.cnblogs.com/flying1819/articles/8832613.html)
+
+[go-docker](https://www.jianshu.com/p/5939dcf5c96e)
+
+[go-kafka](http://doc.oschina.net/grpc?t=60133)
+
+[go-redis](https://studygolang.com/articles/12230)
+
+[Go文件操作大全](https://studygolang.com/articles/19727#reply0)
+
+[go语言单例模式](https://segmentfault.com/a/1190000018575906?utm_source=tag-newest)
+
+[腾讯云GO手册](https://cloud.tencent.com/developer/section/1145006)
+[w3c Go语言手册](http://c.biancheng.net/golang/)
+
+[go语言圣经](http://shouce.jb51.net/gopl-zh/ch1/ch1-05.html)
+
+[goweb编程](https://www.kancloud.cn/kancloud/web-application-with-golang/44105)
+
+[从零开始实现一个RPC框架](https://juejin.im/post/5ca987626fb9a05e20222294)
+
+
+
 
 # mysql 相关资料
+
+[linux下安装mysql](https://www.cnblogs.com/fnlingnzb-learner/p/5830622.html)
    
 [MySQL之alter语句用法总结](http://www.cnblogs.com/aspnethot/articles/1397130.html)
     
 [MySQL数据库的优化方案](https://segmentfault.com/a/1190000006158186?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io )
        
 [Navicat for MySQL 11注册码](http://mt.sohu.com/20160129/n436284127.shtml)   
+
+[分布式数据库TiDB](https://www.pingcap.com/index.html)
+
+
 
 # 微信开发
 
@@ -285,6 +317,18 @@
 [微信展示网站](http://www.rabbitpre.com/discover)
 
 
+
+#压测工具
+[Http压测工具wrk使用指南](https://www.cnblogs.com/jiftle/p/7158291.html)
+[jmeter](http://www.360doc.com/content/17/0616/20/44366386_663735149.shtml)
+
+
+#高并发
+[阿里P8架构师谈：高并发架构解决方案总结](https://studygolang.com/articles/15479)
+[高并发简单解决方案](https://segmentfault.com/a/1190000004136250)
+
+
+
 # git
 
 [Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html) 
@@ -304,16 +348,19 @@
 [keepalived 教程视频](http://edu.51cto.com/index.php?do=lesson&id=59265)
 
 
-
-
 # 编辑工具
 [phpstrom低版本下载地址](http://confluence.jetbrains.com/display/PhpStorm/Previous+PhpStorm+Releases)
 [phpstorm 注册码](http://www.cnblogs.com/Worssmagee1002/p/6233698.htmlss)
 > loadrunner  测试软件
 >phpstrom 安装GO语言编辑扩展 plugins->Gogland
-# redis
 
+
+# redis
 [redis中文文档](http://www.cnblogs.com/weafer/archive/2011/09/21/2184059.html)
+
+[一看就懂的redis集群](https://my.oschina.net/ruoli/blog/2252393)
+[redis集群](https://jingyan.baidu.com/article/bea41d43aa8fe6b4c51be6b0.html)
+
 
 # Markdown
 [好用的Markdown编辑器一览](http://www.williamlong.info/archives/4319.html)
